@@ -24,5 +24,10 @@ This study is based on in-situ observations collected during International India
 ## Citation
 Phillips, H. E., Patel, R. S., Benthuysen, J. A., Duran, E. R., & Marin, M. (2022). Watermass characteristics and circulation near 110° E in the southeast Indian Ocean. Deep Sea Research Part II: Topical Studies in Oceanography, 105149.
 
+### Code
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7783562.svg)](https://doi.org/10.5281/zenodo.7783562)
+
 ## Acknowledgement
 We acknowledge the R. Pawlowicz for an excellent mapping package. Pawlowicz, R., 2020. "M_Map: A mapping package for MATLAB", version 1.4m, [Computer software], [available online](www.eoas.ubc.ca/~rich/map.html).
